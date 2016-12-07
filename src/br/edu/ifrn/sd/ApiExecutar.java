@@ -46,7 +46,7 @@ public class ApiExecutar {
             System.out.println("## Escolha uma das opções abaixo ##");
             System.out.println("Opção 1 - Ler poema");
             System.out.println("Opção 2 - Imprime todos os poemas cadastradas");
-            System.out.println("Opção 3 - Traduzir o titulo do poema (Nao funciona)");
+            System.out.println("Opção 3 - Traduzir o titulo do poema");
             System.out.println("Opção 4 - Tradução dos primeiros 79 carecteres do poema");
             System.out.println("Opção 0 - Sair do programa");
             System.out.println("_______________________");
